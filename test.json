@@ -1,0 +1,43 @@
+[    
+    {
+        "messages": [
+            {"role": "user", "content": "<image>描述里面的内容"},
+            {"role": "assistant", "content": "<think1>图像中央有一只猫</think1><think2>猫是一只黑色的</think2><summary>图中是一只猫</summary>"}
+        ],
+        "images": ["/mnt/bn/smart-customer-service/users/wanghongyu/ParaThinker/train-qwen2.5vl/cat_example.jpg"]
+    },
+    {
+        "messages": [
+            {"role": "user", "content": "<image>描述里面的内容"},
+            {"role": "assistant", "content": "<think1>图像中央有一只猫</think1><think2>猫是一只黑色的</think2><summary>图中是一只猫</summary>"}
+        ],
+        "images": ["/mnt/bn/smart-customer-service/users/wanghongyu/ParaThinker/train-qwen2.5vl/cat_example.jpg"]
+    },
+    {
+        "messages": [
+            {"role": "user", "content": "<image>描述里面的内容"},
+            {"role": "assistant", "content": "<think1>图像中央有一只猫</think1><think2>猫是一只黑色的</think2><summary>图中是一只猫</summary>"}
+        ],
+        "images": ["/mnt/bn/smart-customer-service/users/wanghongyu/ParaThinker/train-qwen2.5vl/cat_example.jpg"]
+    },
+    {
+        "messages": [
+            {"role": "user", "content": "<image>描述里面的内容"},
+            {"role": "assistant", "content": "<think1>图像中央有一只猫</think1><think2>猫是一只黑色的</think2><summary>图中是一只猫</summary>"}
+        ],
+        "images": ["/mnt/bn/smart-customer-service/users/wanghongyu/ParaThinker/train-qwen2.5vl/cat_example.jpg"]
+    },{
+        "messages": [
+            {"role": "user", "content": "<image>描述里面的内容"},
+            {"role": "assistant", "content": "<think1>图像中央有一只猫</think1><think2>猫是一只黑色的</think2><summary>图中是一只猫</summary>"}
+        ],
+        "images": ["/mnt/bn/smart-customer-service/users/wanghongyu/ParaThinker/train-qwen2.5vl/cat_example.jpg"]
+    },
+    {
+        "messages": [
+            {"role": "user", "content": "<image>描述里面的内容"},
+            {"role": "assistant", "content": "<think1>图像中央有一只猫</think1><think2>猫是一只黑色的</think2><summary>图中是一只猫</summary>"}
+        ],
+        "images": ["/mnt/bn/smart-customer-service/users/wanghongyu/ParaThinker/train-qwen2.5vl/cat_example.jpg"]
+    }
+]
